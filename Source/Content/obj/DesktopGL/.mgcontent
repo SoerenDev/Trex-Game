@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/home/alex/RiderProjects/Source/Source/Content/Cactus.png</File>
+    <File>/home/alex/RiderProjects/Source/Source/Content/Floor.png</File>
+    <File>/home/alex/RiderProjects/Source/Source/Content/FlyOne.png</File>
+    <File>/home/alex/RiderProjects/Source/Source/Content/FlyTwo.png</File>
+    <File>/home/alex/RiderProjects/Source/Source/Content/Idle.png</File>
+    <File>/home/alex/RiderProjects/Source/Source/Content/restart.png</File>
+    <File>/home/alex/RiderProjects/Source/Source/Content/Score.spritefont</File>
+    <File>/home/alex/RiderProjects/Source/Source/Content/start.png</File>
+    <File>/home/alex/RiderProjects/Source/Source/Content/stop.png</File>
+    <File>/home/alex/RiderProjects/Source/Source/Content/WalkOne.png</File>
+    <File>/home/alex/RiderProjects/Source/Source/Content/WalkTwo.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/alex/Documents/Trex-Game/Source/Content/FlyTwo.png","C:/Users/alex/Documents/Trex-Game/Source/Content/bin/DesktopGL/Content/FlyTwo.xnb","TextureProcessor","Texture2DContent",5333,22165,0
+"C:/Users/alex/Documents/Trex-Game/Source/Content/WalkOne.png","C:/Users/alex/Documents/Trex-Game/Source/Content/bin/DesktopGL/Content/WalkOne.xnb","TextureProcessor","Texture2DContent",6682,33173,0

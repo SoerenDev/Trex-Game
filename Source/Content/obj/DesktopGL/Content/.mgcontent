@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/alex/Documents/Trex-Game/Source/Content/Cactus.png</File>
+    <File>C:/Users/alex/Documents/Trex-Game/Source/Content/Floor.png</File>
+    <File>C:/Users/alex/Documents/Trex-Game/Source/Content/FlyOne.png</File>
+    <File>C:/Users/alex/Documents/Trex-Game/Source/Content/FlyTwo.png</File>
+    <File>C:/Users/alex/Documents/Trex-Game/Source/Content/Idle.png</File>
+    <File>C:/Users/alex/Documents/Trex-Game/Source/Content/restart.png</File>
+    <File>C:/Users/alex/Documents/Trex-Game/Source/Content/Score.spritefont</File>
+    <File>C:/Users/alex/Documents/Trex-Game/Source/Content/start.png</File>
+    <File>C:/Users/alex/Documents/Trex-Game/Source/Content/stop.png</File>
+    <File>C:/Users/alex/Documents/Trex-Game/Source/Content/WalkOne.png</File>
+    <File>C:/Users/alex/Documents/Trex-Game/Source/Content/WalkTwo.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

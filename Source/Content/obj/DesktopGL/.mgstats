@@ -1,0 +1,12 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/home/alex/RiderProjects/Source/Source/Content/Cactus.png","/home/alex/RiderProjects/Source/Source/Content/bin/DesktopGL/Cactus.xnb","TextureProcessor","Texture2DContent",4195,10025,0.11799
+"/home/alex/RiderProjects/Source/Source/Content/Floor.png","/home/alex/RiderProjects/Source/Source/Content/bin/DesktopGL/Floor.xnb","TextureProcessor","Texture2DContent",1919,259501,0.010694
+"/home/alex/RiderProjects/Source/Source/Content/FlyOne.png","/home/alex/RiderProjects/Source/Source/Content/bin/DesktopGL/FlyOne.xnb","TextureProcessor","Texture2DContent",4955,25109,0.002498
+"/home/alex/RiderProjects/Source/Source/Content/FlyTwo.png","/home/alex/RiderProjects/Source/Source/Content/bin/DesktopGL/FlyTwo.xnb","TextureProcessor","Texture2DContent",5333,22165,0.00211
+"/home/alex/RiderProjects/Source/Source/Content/Idle.png","/home/alex/RiderProjects/Source/Source/Content/bin/DesktopGL/Idle.xnb","TextureProcessor","Texture2DContent",6740,33173,0.00214
+"/home/alex/RiderProjects/Source/Source/Content/restart.png","/home/alex/RiderProjects/Source/Source/Content/bin/DesktopGL/restart.xnb","TextureProcessor","Texture2DContent",2842,171685,0.018689
+"/home/alex/RiderProjects/Source/Source/Content/Score.spritefont","/home/alex/RiderProjects/Source/Source/Content/bin/DesktopGL/Score.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0.20214
+"/home/alex/RiderProjects/Source/Source/Content/start.png","/home/alex/RiderProjects/Source/Source/Content/bin/DesktopGL/start.xnb","TextureProcessor","Texture2DContent",2680,171685,0.00833
+"/home/alex/RiderProjects/Source/Source/Content/stop.png","/home/alex/RiderProjects/Source/Source/Content/bin/DesktopGL/stop.xnb","TextureProcessor","Texture2DContent",2562,171685,0.0146
+"/home/alex/RiderProjects/Source/Source/Content/WalkOne.png","/home/alex/RiderProjects/Source/Source/Content/bin/DesktopGL/WalkOne.xnb","TextureProcessor","Texture2DContent",6682,33173,0.002094
+"/home/alex/RiderProjects/Source/Source/Content/WalkTwo.png","/home/alex/RiderProjects/Source/Source/Content/bin/DesktopGL/WalkTwo.xnb","TextureProcessor","Texture2DContent",6704,33173,0.002264
