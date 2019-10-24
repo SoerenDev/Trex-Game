@@ -19,7 +19,7 @@ namespace Source {
         }
 
         public void Update(GameTime gameTime) {
-            this.position.X -= 0.4f * (float)gameTime.ElapsedGameTime.TotalMilliseconds;
+            this.position.X -= (int)(0.4f * (float)gameTime.ElapsedGameTime.TotalMilliseconds);
             this.rectangle = new Rectangle((int)this.position.X, (int)this.position.Y, 42, 42);
         }
 
